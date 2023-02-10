@@ -146,7 +146,7 @@ You can find reNgine documentation on [https://rengine.wiki](https://rengine.wik
 
 ## Quick Installation
 
-**(Only Ubuntu/VPS)**
+**(Only Ubuntu (Version 22.04)/VPS)**
 
 1. Clone this repo
 
